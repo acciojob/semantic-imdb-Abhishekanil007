@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+
+.navbar{
+	display:flex;
+	background-color:brown;
+}
+nav>ul>a{
+	text-decoration:none;
+	color:white;
+}
